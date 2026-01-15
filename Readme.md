@@ -8,6 +8,8 @@
 - Exploring Different Technologies <img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="20"/>
 - Nature 💚
 
+<a href="https://app.daily.dev/pavan_kumarv"><img src="https://api.daily.dev/devcards/v2/bB6aTmH7LhKv32qgnwiXM.png?type=default&r=asu" width="356" alt="pavan kumar v's Dev Card"/></a>
+
 ### My Top Projects
 1. Student Cross Platform Mobile App [student_app](https://github.com/pavankumar-v/Student_app) - student app for college (Flutter + Firebase)
 2. Institute Management [Node Backend for Sudent App](https://github.com/pavankumar-v/Institution_management) - ( Node js, Express js, Firebase ) 
